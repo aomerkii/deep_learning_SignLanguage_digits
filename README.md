@@ -1,1 +1,0 @@
-# deep_learning_SignLanguage_digits
